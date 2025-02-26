@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **exciting new projects in cloud computing**
+ 🔭 I’m currently working on **exciting new projects to contribute open source community**
  
  🌱 I’m currently learning **advanced AWS Cloud Services**
 
